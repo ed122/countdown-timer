@@ -1,0 +1,40 @@
+body {
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2ede9;
+    color: white;
+}
+
+#countdown {
+    text-align: center;
+}
+
+#timer {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.number {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #867467;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 3em;
+    color: #867467;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-style: italic;
+    color: #deb44f; /* Change this color to whatever you prefer */
+}
