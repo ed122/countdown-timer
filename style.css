@@ -35,6 +35,6 @@ h1 {
 .highlight {
     font-family: 'Playfair Display', serif;
     font-weight: bold;
-    /*font-style: italic; */
+    font-style: normal; 
     color: #deb44f; 
 }
